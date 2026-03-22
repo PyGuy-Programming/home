@@ -1,4 +1,4 @@
-<h1><img src="images/pfp.png" alt=" " width="50"> <ins>PyGuy-Programming<ins></h1>   
+<h1><a href="https://github.com/PyGuy-Programming" style="text-decoration: none; color: inherit;"><img src="images/pfp.png" alt=" " width="50"> <ins>PyGuy-Programming</ins></a></h1>   
 
 
 Hi! My name is Luca. I'm a student from Germany and a hobby coder. I also enjoy playing Minecraft und working with Linux.
