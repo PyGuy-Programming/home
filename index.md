@@ -1,6 +1,6 @@
 <h1><a href="https://github.com/PyGuy-Programming"><img src="images/pfp.png" alt=" " width="50"></a> <ins>PyGuy-Programming</ins></h1>   
 
-Hi! My name is Luca. I'm a student from Germany and a hobby coder. I also enjoy playing Minecraft und working and tinkering with Linux.
+Hi! My name is Luca. I'm a student from Germany and a hobby coder. I also enjoy playing Minecraft and working and tinkering with Linux.
 
 For those who are interested in my projects, here they are:
 
